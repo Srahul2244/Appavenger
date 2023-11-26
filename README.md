@@ -1,3 +1,8 @@
+To run please type two commands
+npm run server
+npm start
+
+ 
  <div>
           <h4 className="italic text-3xl text-slate-800 mb-4">Fiction Books</h4>
           <img
