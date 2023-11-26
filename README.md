@@ -5,6 +5,7 @@
             alt="special offer"
           />
         </div>
+        https://www.bookswagon.com/images/promotionimages/web/nonfictionbooksWeb.jpg?v=2.0
         <div>
           <h4 className="italic text-3xl text-slate-800 mb-4">
             Manga Mania Best Sellers
@@ -14,3 +15,4 @@
             alt="special"
           />
         </div>
+        https://www.bookswagon.com/images/promotionimages/web/4_mangamaniaWeb.jpg?v=2.0
