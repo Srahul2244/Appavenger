@@ -1,0 +1,364 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "price": 10.99,
+      "image": "https://m.media-amazon.com/images/I/515o+3oBm0L._SY445_SX342_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classics",
+      "price": 12.99,
+      "image": "https://m.media-amazon.com/images/I/41j-s9fHJcL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/41aM4xOZxaL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "price": 11.99,
+      "image": "https://rukminim2.flixcart.com/image/832/832/kqidx8w0/book/m/t/q/pride-prejudice-original-imag4hhytfbvzyza.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/71a+5TjuYDL._SY466_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": 24.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg/330px-Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": 16.99,
+      "image": "https://example.com/harry-potter.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "price": 13.99,
+      "image": "https://m.media-amazon.com/images/I/41KuPr7kpZL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "price": 11.49,
+      "image": "https://m.media-amazon.com/images/I/41PqRm0q3dL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classics",
+      "price": 11.99,
+      "image": "https://m.media-amazon.com/images/I/41JFqILaXyL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "price": 10.49,
+      "image": "https://m.media-amazon.com/images/I/91D4YvdC0dL._SY466_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/51+qSD6UwfL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "price": 12.79,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "price": 15.99,
+      "image": "https://m.media-amazon.com/images/I/51bWBRQoaXL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Mystery",
+      "price": 14.29,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/80/The_Girl_with_the_Dragon_Tattoo_Poster.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "price": 10.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Maze_Runner_cover.png"
+    },
+    {
+      "id": 17,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "price": 13.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "price": 11.49,
+      "image": "https://m.media-amazon.com/images/I/61Su7QkmXAL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "genre": "Historical Fiction",
+      "price": 16.99,
+      "image": "https://m.media-amazon.com/images/I/41++Km79EUL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fantasy",
+      "price": 12.99,
+      "image": "https://m.media-amazon.com/images/I/51Z0nLAfLmL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "genre": "Mystery",
+      "price": 11.99,
+      "image": "https://m.media-amazon.com/images/I/61zatwCfS5L.jpg"
+    },
+    {
+      "id": 22,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/619p10LZ7VL._SL1500_.jpg"
+    },
+    {
+      "id": 23,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic",
+      "price": 13.49,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/The_Road_%282023_film%29.jpg"
+    },
+    {
+      "id": 24,
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "genre": "Classics",
+      "price": 10.99,
+      "image": "https://m.media-amazon.com/images/I/71O7XjXaMhL._SL1500_.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "price": 12.49,
+      "image": "https://m.media-amazon.com/images/I/71X0Wsoa+vL._SL1500_.jpg"
+    },
+    {
+      "id": 26,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "genre": "Adventure",
+      "price": 15.99,
+      "image": "https://m.media-amazon.com/images/I/61j4bBLKA4L._SL1230_.jpg"
+    },
+    {
+      "id": 27,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Classics",
+      "price": 11.49,
+      "image": "blob:https://www.kobo.com/4558b79f-b811-4f64-a8e5-ed9b41059436"
+    },
+    {
+      "id": 28,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/81R91ODA9DL._SL1500_.jpg"
+    },
+    {
+      "id": 29,
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "genre": "Classics",
+      "price": 10.99,
+      "image": "https://m.media-amazon.com/images/I/61pLRWYTbXL._SL1500_.jpg"
+    },
+    {
+      "id": 30,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "genre": "Magical Realism",
+      "price": 13.99,
+      "image": "https://m.media-amazon.com/images/I/71IWwBoDNsL._SL1500_.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Wuthering Heights",
+      "author": "Emily Bronte",
+      "genre": "Gothic Fiction",
+      "price": 12.79,
+      "image": "https://m.media-amazon.com/images/I/81dvA4tU0rL._SL1500_.jpg"
+    },
+    {
+      "id": 32,
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "genre": "Historical Fiction",
+      "price": 11.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Grapes_of_Wrath_%281940_poster%29.jpg/330px-The_Grapes_of_Wrath_%281940_poster%29.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "genre": "Classics",
+      "price": 15.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/75/AnnaKarenina2012Poster.jpg"
+    },
+    {
+      "id": 34,
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "genre": "Children's Literature",
+      "price": 9.99,
+      "image": "https://m.media-amazon.com/images/I/81pgvJnqc7L._SL1500_.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Science Fiction",
+      "price": 12.49,
+      "image": "https://m.media-amazon.com/images/I/81PWUQgQ2uL._SL1500_.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "genre": "Gothic Fiction",
+      "price": 10.99,
+      "image": "https://m.media-amazon.com/images/I/61c1BiBgvdL._SL1193_.jpg"
+    },
+    {
+      "id": 37,
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "genre": "Children's Literature",
+      "price": 11.49,
+      "image": "https://m.media-amazon.com/images/I/61c1BiBgvdL._SL1193_.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/A193gO2P8WL._SL1500_.jpg"
+    },
+    {
+      "id": 39,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "price": 13.99,
+      "image": "https://m.media-amazon.com/images/I/A15XQ+h74LL._SL1500_.jpg"
+    },
+    {
+      "id": 40,
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "genre": "Drama",
+      "price": 12.79,
+      "image": "https://m.media-amazon.com/images/I/71f6DRbcrsL._SL1000_.jpg"
+    },
+    {
+      "id": 41,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "price": 15.99,
+      "image": "https://m.media-amazon.com/images/I/919LJ0ts6fL._SL1500_.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "genre": "Satire",
+      "price": 10.49,
+      "image": "https://m.media-amazon.com/images/I/719KHgqh7BL._SL1000_.jpg"
+    },
+    {
+      "id": 43,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "genre": "Children's Literature",
+      "price": 11.99,
+      "image": "https://m.media-amazon.com/images/I/91qOXqI3aQL._SL1500_.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "price": 16.99,
+      "image": "https://m.media-amazon.com/images/I/81sA0RVQNTL._SL1500_.jpg"
+    },
+    {
+      "id": 45,
+      "title": "The Iliad",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "price": 13.49,
+      "image": "https://cdn.penguin.co.uk/dam-assets/books/9780140445923/9780140445923-jacket-large.jpg"
+    }
+  ]
+}
